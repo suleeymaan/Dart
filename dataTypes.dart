@@ -1,4 +1,4 @@
-// This program demonstrates various data types in Dart.yooooo
+// This program demonstrates various data types in Dart.
 void main() {
   // Integer
   int age = 30;
